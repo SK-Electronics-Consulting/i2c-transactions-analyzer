@@ -1,0 +1,13 @@
+{
+  "name": "I2C Transaction Analyzer",
+  "apiVersion": "1.0.0",
+  "author": "Seth Kazarians",
+  "version": "0.0.1",
+  "description": "I2C Transaction Analyzer",
+  "extensions": {
+    "I2C Transaction Analyzer": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
